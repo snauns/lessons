@@ -27,4 +27,4 @@ class DBContext:
         except Exception as ex:
             print(ex)
         finally:
-            connection.close()
+            connection.close()s
