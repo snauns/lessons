@@ -24,4 +24,4 @@ parser.ParseNBU('value-full', 'small', isUSD)
 result = amount / parser.Result[0]
 print(f"amount - {amount} hrn\n"
       f"price - {parser.Result[0]} {symbol}\n"
-      f"result - {result:.2f} {symbol}")
+      f"result - {result:.2f} {symbol}")s
